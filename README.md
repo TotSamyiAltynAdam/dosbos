@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Spring project where customers can but coupons for buying a meal.
-- 🌱 I’m currently learning Spring Security
+- 🔭 I’m currently working on Spring projects
+- 🌱 I’m currently learning Spring Sessions
 - 👯 I’m looking to collaborate on projects related to the backend field
 - 💬 Ask me about Frontend and Backend developing
 - 📫 How to reach me: eldosanarbaev7@gmail.com
