@@ -7,9 +7,9 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Spring projects
-- 🌱 I’m currently learning Spring Sessions
-- 👯 I’m looking to collaborate on projects related to the backend field
-- 💬 Ask me about Frontend and Backend developing
-- 📫 How to reach me: eldosanarbaev7@gmail.com
+- 📫 How to contact me: eldosanarbaev7@gmail.com, https://www.linkedin.com/in/yeldos-anarbayev-2a7653257/
+- 🔭 I’m currently working on a Logistics application as a Front-end Developer (React.js, Js) and as Backend Developer (Java Spring)
+- 🌱 I’m currently studying advanced materials about Spring at the JustCode School. By the way I am certificated, Java Developer under the TechOrda program
+- 👯 I am looking for cooperation in projects related to web applications (currently this option is not being considered, I prefer after January 2024)
+- 💬 Ask me about the development of the interface and backend
 - ⚡ Fun fact: I am Kazakh)
